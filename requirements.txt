@@ -1,0 +1,4 @@
+matrix_client
+git+https://github.com/shawnanastasio/python-matrix-bot-api
+
+
